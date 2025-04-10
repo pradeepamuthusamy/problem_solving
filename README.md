@@ -1,2 +1,2 @@
 # problem_solving
-This repository consist of problems solved that I solved daily using java 
+This repository consist of coding problems that I solved daily using java .
