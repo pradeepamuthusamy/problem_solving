@@ -25,3 +25,5 @@ class amicable{
 		return sof_num;
 	}
 }
+
+undefined
