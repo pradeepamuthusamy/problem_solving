@@ -55,15 +55,7 @@ class selection
 		//long stop = System.currentTimeMillis();
 		//double time_taken = ( stop - start ) / 1000.0;
 		//System.out.printf("Selection Sort %d , time Taken = %.3g\f", noe, time_taken);
-		print ( arr );
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		print ( arr );	
 	 }
 }
+undefined
