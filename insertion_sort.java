@@ -32,7 +32,7 @@ class insertion_sort
 		int shifter;
 		int temp;
 		print ( arr );
-	    long start = System.currentTimeMillis();
+	   
 		for( unsorted_ind = 1; unsorted_ind < arr.length; unsorted_ind += 1)
 		{		
 			shifter = unsorted_ind;
@@ -49,3 +49,6 @@ class insertion_sort
 	
 	 }
 }
+
+
+undefined
