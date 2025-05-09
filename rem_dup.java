@@ -1,7 +1,7 @@
 //Leetcode problem no:26
 //Remove Duplcates from the sorted array
 /*
-given a sorted array remove the duplicates and return the list size after removing
+given a sorted array remove the duplicates and return the array size after removing return the length of the array as output.
 Input:1|2|2|3|3|5
 output:4
 */
@@ -26,3 +26,19 @@ class rem_dup{
 	}
 	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+undefined
