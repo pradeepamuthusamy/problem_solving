@@ -19,3 +19,9 @@ class valid_palindrome{
 		return original.equals(reversed);
 	}
 }
+
+
+
+
+undefined
+	
