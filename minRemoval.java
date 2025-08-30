@@ -1,3 +1,16 @@
+//Remove minimum elements from either side such that 2*min becomes more than max
+//Given an unsorted array, trim the array such that twice of minimum is greater than maximum in the trimmed array. Elements should be removed either end of the array.
+//Number of removals should be minimum.
+
+//Examples: 
+
+//arr[] = {4, 5, 100, 9, 10, 11, 12, 15, 200}
+//Output: 4
+//We need to remove 4 elements (4, 5, 100, 200)
+//so that 2*min becomes more than max.
+
+
+
 import java.util.*;
 
 class minRemoval{
@@ -46,6 +59,8 @@ class minRemoval{
 		return table[0][n-1];
 	}
 }	
-				
+
+undefined
 			
+
 	
