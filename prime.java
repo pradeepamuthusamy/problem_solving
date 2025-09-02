@@ -2,7 +2,7 @@
 class prime{
 	public static void main(String[] args){
 		//int n=10;
-		int n=11;
+		//int n=11;
 		//int n=50;
 		
 		boolean prime[] =new boolean[n+1];
@@ -25,4 +25,8 @@ class prime{
 		}
 		System.out.println(sum);
 	}
+
 }
+
+
+#undefined
