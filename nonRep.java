@@ -1,3 +1,5 @@
+//find the first nonrepeating or first unique character
+
 class nonRep{
 	public static void main(String[] args){
 		//String str="geeksforgeeks";
@@ -22,4 +24,12 @@ class nonRep{
 		return '$';
 	}
 }
+
+
+
+
+
+
+#undefined
+
 		
