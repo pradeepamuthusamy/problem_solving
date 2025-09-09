@@ -27,4 +27,12 @@ class maximumSumOfProduct{
 		
 	}
 }
-		
+
+
+
+
+
+
+
+#undefined
+	
