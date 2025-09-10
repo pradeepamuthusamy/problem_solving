@@ -1,3 +1,7 @@
+//given two strings 
+//remove the characters which are similar among two strings from the string 1
+//return the string1 with removed characters
+
 class RemoveCharString{
 	static final int NoOfChars=256;
 	static int[] getCharArrayCount(String str){
@@ -30,3 +34,5 @@ class RemoveCharString{
 	}
 }
 
+
+#undefined
