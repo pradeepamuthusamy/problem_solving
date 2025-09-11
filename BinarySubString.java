@@ -1,3 +1,6 @@
+//  given a binary substring
+//count the substring that should start and end with '1'
+
 class BinarySubString{
 	public static void main(String[] args){
 		String str="000100101";
@@ -14,4 +17,7 @@ class BinarySubString{
 		}
 		System.out.println(count);
 	}
+
 }
+
+#undefied
