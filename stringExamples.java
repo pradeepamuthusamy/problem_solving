@@ -1,3 +1,5 @@
+//here are some the string operations done using built in methods 
+
 import java.util.*;
 class StringLength{
 	public static void main(String args[]){
@@ -94,4 +96,5 @@ class StringSplit{
 
 		
 	}
+
 }
