@@ -1,3 +1,9 @@
+// given a matrix value .find the celebrity
+//celebrity is the one who is known by everyone but celebrity doesnot know anyone
+//if mat[i][j]==1 then i knows j
+//if mat[i][j]==0 then i doesnot know j
+
+
 import java.util.*;
 
 class celebrityCheck{
@@ -82,5 +88,11 @@ class celebrityCheck{
 		return c;
 	}
 }
-		
+
+
+
+
+
+#undefined
+
 			
