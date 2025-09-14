@@ -14,9 +14,17 @@ class fibonacci{
 			num2=sum;
 
 		}
-				
 
 
 
 	}
+}
+
+
+#undefied 
+
+
+
+	}
+
 }
